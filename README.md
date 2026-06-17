@@ -22,16 +22,16 @@ This project was completed as part of my Data Analytics Internship at **Decode L
 
 ### 1. Missing Data Profiling
 Below is the snapshot of the missing value inspection showing 309 missing values in the CouponCode column:
-![Missing Value Profile](PROJECTS%201/missing_value_count.png)
+![Missing Value Profile](PROJECTS 1/missing_value_count.png)
 
 ### 2. Duplicate Integrity Check
 Output showing that no duplicate rows or duplicate OrderIDs were present in the dataset:
-![Duplicate Check](PROJECTS%201/duplicate_check.png)
+![Duplicate Check](PROJECTS 1/duplicate_check.png)
 
 ### 3. Data Formatting (Date & Text)
 Output verifying the successful correction of date strings and uppercase text conversion:
-![Data Formatting](PROJECTS%201/Correct_date_format.png)
+![Data Formatting](PROJECTS 1/Correct_date_format.png)
 
 ### 4. Final Verification Summary
 Final data types and shape profiling before successfully exporting the cleaned file:
-![Final Summary](PROJECTS%201/Final_summary.png)
+![Final Summary](PROJECTS 1/Final_summary.png)
